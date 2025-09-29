@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
@@ -73,3 +73,4 @@ class _MyHomePageState extends State<MyHomePage> {
 ///git log (to browse your commits)
 ///git branch
 ///git branch -m "new name"
+///git branch -d <branch name>
