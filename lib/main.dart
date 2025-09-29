@@ -64,3 +64,12 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+///git init
+///git add .
+///git commit -m "message"
+///git reset head~<number of commits that you want to delete>
+///git restore . (Discard changes)
+///git log (to browse your commits)
+///git branch
+///git branch -m "new name"
