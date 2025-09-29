@@ -74,3 +74,5 @@ class _MyHomePageState extends State<MyHomePage> {
 ///git branch
 ///git branch -m "new name"
 ///git branch -d <branch name>
+///git switch <branch name>
+///git clone <GitHub link>
